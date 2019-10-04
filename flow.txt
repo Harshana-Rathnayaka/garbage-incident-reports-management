@@ -1,0 +1,33 @@
+green task force :- Registered Memeber/ 
+can create Account//
+manage data /(edit/
+can manage sent reports//
+completed all
+
+upload images //
+ and location(gps cordinates)/.//
+description///
+upload part done
+
+
+Green captain or manager
+
+view all reports with map
+approval ./ ---> importance(red flag) /else(yellow)-----> Garbage collection staf()
+ or reject ./ ----> spam ()---> delete forever
+done///
+
+
+Garbage collection staff()
+view all reports
+	click the report,
+view one by one map in a report
+if the task is complete, the report can updated as a green flag
+
+
+Administrator
+can create/manage green captain and  collecting staff accounts
+can create/manage blog posts
+
+
+

@@ -1,0 +1,18 @@
+Database should be imported into a database named cmc
+
+
+Login information
+
+admin username - adminuser
+password - rumesh123
+
+garbage staff username - garbagestaff
+password - 123
+
+manager(green captain) username - greencaptain
+password - 123
+
+volunteer username - taskforceuser
+password - 123
+
+
